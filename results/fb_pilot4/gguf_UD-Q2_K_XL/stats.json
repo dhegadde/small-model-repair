@@ -1,0 +1,7 @@
+{
+  "prompt_tokens_match": true,
+  "prompt_tokens_hf": 441,
+  "prompt_tokens_server": 441,
+  "tokens_per_s_batch1": 259.4,
+  "tokens_per_s_batch1_median": 260.2
+}

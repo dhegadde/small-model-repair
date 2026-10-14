@@ -1,0 +1,10 @@
+torch
+transformers>=5.0
+peft
+datasets
+huggingface_hub
+safetensors
+hqq
+numpy
+gguf  # for loading GGUF files in transformers; install from llama.cpp/gguf-py
+# evaluation (separate venv recommended): evalplus

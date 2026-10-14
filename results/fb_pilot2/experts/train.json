@@ -1,0 +1,104 @@
+{
+  "arm": "experts",
+  "bits": 2,
+  "rank": 8,
+  "examples": 813,
+  "log": [
+    {
+      "epoch": 0,
+      "step": 25,
+      "loss": 0.1317,
+      "seconds": 104
+    },
+    {
+      "epoch": 0,
+      "step": 50,
+      "loss": 0.3597,
+      "seconds": 208
+    },
+    {
+      "epoch": 0,
+      "step": 75,
+      "loss": 0.1624,
+      "seconds": 312
+    },
+    {
+      "epoch": 0,
+      "step": 100,
+      "loss": 0.1057,
+      "seconds": 416
+    },
+    {
+      "epoch": 0,
+      "step": 125,
+      "loss": 0.1614,
+      "seconds": 520
+    },
+    {
+      "epoch": 0,
+      "step": 150,
+      "loss": 0.1667,
+      "seconds": 624
+    },
+    {
+      "epoch": 0,
+      "step": 175,
+      "loss": 0.091,
+      "seconds": 727
+    },
+    {
+      "epoch": 0,
+      "step": 200,
+      "loss": 0.1413,
+      "seconds": 831
+    },
+    {
+      "epoch": 1,
+      "step": 225,
+      "loss": 0.0472,
+      "seconds": 934
+    },
+    {
+      "epoch": 1,
+      "step": 250,
+      "loss": 0.0948,
+      "seconds": 1038
+    },
+    {
+      "epoch": 1,
+      "step": 275,
+      "loss": 0.059,
+      "seconds": 1142
+    },
+    {
+      "epoch": 1,
+      "step": 300,
+      "loss": 0.1363,
+      "seconds": 1245
+    },
+    {
+      "epoch": 1,
+      "step": 325,
+      "loss": 0.0322,
+      "seconds": 1349
+    },
+    {
+      "epoch": 1,
+      "step": 350,
+      "loss": 0.0204,
+      "seconds": 1453
+    },
+    {
+      "epoch": 1,
+      "step": 375,
+      "loss": 0.0723,
+      "seconds": 1556
+    },
+    {
+      "epoch": 1,
+      "step": 400,
+      "loss": 0.0841,
+      "seconds": 1660
+    }
+  ]
+}

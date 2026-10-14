@@ -1,0 +1,11 @@
+{
+  "packed_modules": 48,
+  "build_seconds": 95,
+  "weights_gb_counted": 12.77,
+  "gpu_allocated_gb_after_load": 12.77,
+  "file_gb": 12.77,
+  "peak_gpu_gb_eval_batch16": 15.89,
+  "eval_tokens_per_s_batch16": 17.7,
+  "tokens_per_s_batch1": 10.4,
+  "peak_gpu_gb_batch1": 14.35
+}

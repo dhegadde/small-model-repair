@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.gguf
+*.safetensors
+*.pt
+lora_hf/
+adapter/
+processed_data/
+runs/
+hf_cache/

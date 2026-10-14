@@ -1,0 +1,23 @@
+{
+  "humaneval": {
+    "n": 164,
+    "closed_fence": 97.6
+  },
+  "mbpp": {
+    "n": 378,
+    "closed_fence": 98.9
+  },
+  "js": {
+    "n": 161,
+    "pass": 84.5
+  },
+  "cpp": {
+    "n": 161,
+    "pass": 82.6
+  },
+  "mmlu": {
+    "n": 1000,
+    "acc": 71.4,
+    "no_letter": 0
+  }
+}
